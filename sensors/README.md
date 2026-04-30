@@ -1,1 +1,0 @@
-sensor used in robot
